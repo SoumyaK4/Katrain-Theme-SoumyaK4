@@ -1,0 +1,7 @@
+{
+	"UNCERTAIN_HINT_SCALE": 0.0,
+	"APPROX_BOARD_COLOR":[0.8666,0.5764,0.243],
+	"TERRITORY_DISPLAY": "shaded",
+	"STONE_MARKS": "weak",
+	"MISTAKE_SOUNDS": ["What_is_this.wav", "What_6.wav", "What_3.wav", "Aah_no_2.wav", "I_dont_understand.wav", "Haa.wav", "Aah_no.wav", "Oh_really.wav", "Mmh_2.wav", "What_is_this_2.wav", "This_is_crazy.wav", "Mmh.wav", "What_2.wav", "Aah_what.wav", "What.wav", "Aah_3.wav", "Aah_2.wav"]
+}
